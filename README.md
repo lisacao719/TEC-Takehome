@@ -1,7 +1,7 @@
 ### Introduction
 
 This is my submission for the take home project provided by TEC Energy for the Full Stack Developer role.
-This web app uses C# in the backend and React.JS in the frontend.
+This web app uses C# in the backend and React.JS in the frontend and was built using Windows.
 
 ##### Prerequisites
 
